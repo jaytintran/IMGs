@@ -1,0 +1,13 @@
+.jumbotron {
+	margin-top: 80px;
+	color: #2c3e50;
+}
+.navbar {
+	background-color: #132b47;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: #fff;
+}
+.navbar-header .navbar-brand {
+	color: #fff;
+}
